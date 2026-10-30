@@ -4,7 +4,7 @@ Automation and robotics engineer. I work with industrial control systems, robots
 
 ## Selected projects
 
-University team projects, republished with their teams credited.
+Some public projects:
 
 | Project | What it is | Stack |
 |---|---|---|
